@@ -1,275 +1,44 @@
-[01:51:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:51:25] [ServerMain/INFO]: Loaded 1337 recipes
-[01:51:25] [ServerMain/INFO]: Loaded 1448 advancements
-[01:51:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:51:25] [Server thread/INFO]: Loading properties
-[01:51:25] [Server thread/INFO]: Default game type: SURVIVAL
-[01:51:25] [Server thread/INFO]: Generating keypair
-[01:51:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:51:26] [Server thread/INFO]: Using epoll channel type
-[01:51:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:51:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:51:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:51:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:51:26] [Server thread/INFO]: Preparing level "world"
-[01:51:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:51:43] [Server thread/INFO]: Time elapsed: 16044 ms
-[01:51:43] [Server thread/INFO]: Done (17.013s)! For help, type "help"
-[01:51:46] [Server thread/INFO]: L_Liaz[/127.248.114.85:54713] logged in with entity id 85 at (602.3000000119209, -35.0, -118.69999998807907)
-[01:51:46] [Server thread/INFO]: L_Liaz joined the game
-[01:54:07] [Server thread/INFO]: Gghost[/127.126.37.154:46361] logged in with entity id 903 at (621.0284333960635, 69.0, -272.1124631448308)
-[01:54:07] [Server thread/INFO]: Gghost joined the game
-[01:54:22] [Server thread/WARN]: UUID of added entity already exists: cic['Chicken'/1056, l='ServerLevel[world]', x=822.14, y=96.00, z=-464.21]
-[02:04:04] [Server thread/WARN]: L_Liaz moved too quickly! 7.840738497304187,-6.176759275064242,-2.1885902796325922
-[02:05:38] [Server thread/INFO]: Gghost has made the advancement [Isn't It Iron Pick]
-[02:13:28] [Server thread/INFO]: Emori77[/127.187.88.135:32961] logged in with entity id 6906 at (605.9000207909228, 68.9375, -269.4222622081613)
-[02:13:28] [Server thread/INFO]: Emori77 joined the game
-[02:17:20] [Server thread/INFO]: [Not Secure] <Gghost> w44 -126
-[02:17:25] [Server thread/INFO]: [Not Secure] <Gghost> 244
-[02:20:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=186, y=64, z=-174} jh{x=185, y=64, z=-172}
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -9.494337157641326,4.973799150320701E-14,-3.8116661736278843
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -9.864455802622103,4.973799150320701E-14,-3.960256294150497
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -10.234682845754605,4.973799150320701E-14,-4.108889923728327
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -10.605007447221055,4.973799150320701E-14,-4.257562711454796
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -10.97541985118579,4.973799150320701E-14,-4.406270741514106
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -11.345911277396851,4.973799150320701E-14,-4.555010489672043
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -11.716473823627723,4.973799150320701E-14,-4.703778784118015
-[02:24:31] [Server thread/WARN]: Emori77 moved too quickly! 7.369434334221069,-0.5475485219240284,6.793610225799398
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -12.08710037787472,4.973799150320701E-14,-4.852572770222594
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -12.457784539334739,4.973799150320701E-14,-5.001389878819339
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -12.828520547285052,4.973799150320701E-14,-5.150227797658374
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -13.199303217075453,4.973799150320701E-14,-5.299084445715096
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -13.570127882520751,4.973799150320701E-14,-5.4479579500671775
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -13.940990344054512,4.973799150320701E-14,-5.5968466250847655
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -14.311886822066981,4.973799150320701E-14,-5.745748953700911
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -14.682813914909445,4.973799150320701E-14,-5.894663570555451
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -15.053768561098195,4.973799150320701E-14,-6.043589246824183
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -15.424748005297943,4.973799150320701E-14,-6.192524876565528
-[02:24:31] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! -15.79574976770698,4.973799150320701E-14,-6.341469464431896
-[02:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[02:26:00] [Server thread/INFO]: TheMutte[/127.191.142.225:58327] logged in with entity id 20825 at (231.5, 70.0, -355.5)
-[02:26:00] [Server thread/INFO]: TheMutte joined the game
-[02:26:52] [Server thread/INFO]: im_evann[/127.176.104.174:48907] logged in with entity id 22688 at (600.4188490593876, 70.0, -279.3702886437373)
-[02:26:52] [Server thread/INFO]: im_evann joined the game
-[02:27:50] [Server thread/INFO]: [Not Secure] <im_evann> 271 70 -333
-[02:29:45] [Server thread/INFO]: TheMutte has made the advancement [Stone Age]
-[02:31:41] [Server thread/WARN]: Emori77 moved too quickly! -8.834504155303506,-3.8622826671866974,3.447758834375918
-[02:32:00] [Server thread/WARN]: Oak Boat (vehicle of L_Liaz) moved too quickly! 10.39592278923783,2.0473578388191527E-10,-0.28228601106252427
-[02:32:00] [Server thread/WARN]: Oak Boat (vehicle of L_Liaz) moved too quickly! 10.795772901765304,2.0600765537892585E-10,-0.2931700425235704
-[02:33:35] [Server thread/INFO]: TheMutte was impaled on a stalagmite
-[02:33:46] [Server thread/INFO]: Seed: [-1920390256051490974]
-[02:34:09] [Server thread/INFO]: [Not Secure] <im_evann> t
-[02:34:33] [Server thread/INFO]: [Not Secure] <TheMutte> ay victor
-[02:35:03] [Server thread/INFO]: [Not Secure] <Emori77> 536 1829
-[02:35:12] [Server thread/INFO]: [Not Secure] <Emori77> -568 1829
-[02:35:22] [Server thread/INFO]: Emori77 has made the advancement [Ice Bucket Challenge]
-[02:35:59] [Server thread/INFO]: [Not Secure] <L_Liaz> 5000 2000
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 10.388645594483705,0.0,0.028643993298146597
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 7.046804788957047,0.0,7.606989715979125
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 10.788061221846192,0.0,0.04645101382448047
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 7.318481927406992,0.0,7.9002637969448415
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 11.187525124639478,0.0,0.0633746353882998
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 7.590173211182105,0.0,8.193553147716557
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 11.587040443715296,0.0,0.07902006180665921
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 7.861877225749481,0.0,8.486856241313376
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 11.986604216739124,0.0,0.0930856054033029
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 8.133592698029702,0.0,8.780171703452424
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 12.386209538229195,0.0,0.10533809641924563
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 8.405318482251118,0.0,9.073498297279116
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 12.785847108712233,0.0,0.11560606316811572
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 8.677053547219316,0.0,9.366834909624458
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 13.185506498576615,0.0,0.12377357546210987
-[02:43:54] [Server thread/WARN]: Spruce Boat (vehicle of Gghost) moved too quickly! 8.948796964859525,0.0,9.660180538636382
-[02:43:54] [Server thread/WARN]: Dark Oak Boat (vehicle of Emori77) moved too quickly! 13.585176775176706,0.0,0.12976319127619718
-[02:45:52] [Server thread/INFO]: [Not Secure] <Gghost> XDXDXD
-[02:46:51] [Server thread/INFO]: [Not Secure] <TheMutte> pa que los bañes p tarao
-[02:48:19] [Server thread/INFO]: [Not Secure] <TheMutte> administracion axulio
-[02:53:24] [Server thread/INFO]: [Not Secure] <Gghost> xdXDxd
-[02:53:38] [Server thread/INFO]: TheMutte has made the advancement [Sweet Dreams]
-[02:54:27] [Server thread/INFO]: [Not Secure] <Gghost> xdXDxd
-[02:55:35] [Server thread/INFO]: im_evann fell from a high place
-[02:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
-[02:58:09] [Server thread/INFO]: TheMutte was shot by Skeleton
-[02:58:46] [Server thread/INFO]: TheMutte lost connection: Disconnected
-[02:58:46] [Server thread/INFO]: TheMutte left the game
-[03:01:01] [Server thread/INFO]: L_Liaz lost connection: Disconnected
-[03:01:01] [Server thread/INFO]: L_Liaz left the game
-[03:01:32] [Server thread/INFO]: im_evann has made the advancement [Ice Bucket Challenge]
-[03:06:57] [Server thread/INFO]: Gghost has made the advancement [Best Friends Forever]
-[03:07:10] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved wrongly! 0.6066154653959757
-[03:07:10] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved wrongly! 0.2974113843018813
-[03:07:20] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved too quickly! 6.59691755744052,0.0,8.039306273625698
-[03:07:20] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved too quickly! 6.850645156399878,0.0,8.34851036107284
-[03:07:20] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved too quickly! 7.104372755371969,0.0,8.657714448519982
-[03:07:20] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved too quickly! 7.358100354355884,0.0,8.966918535967125
-[03:07:20] [Server thread/WARN]: Spruce Boat (vehicle of im_evann) moved too quickly! 7.611827953350257,0.0,9.276122623414267
-[03:12:38] [Server thread/INFO]: im_evann lost connection: Disconnected
-[03:12:38] [Server thread/INFO]: im_evann left the game
-[03:14:03] [Server thread/INFO]: im_evann[/127.176.104.174:38893] logged in with entity id 96870 at (3390.151133475068, 62.11076431274413, 1950.2880104795101)
-[03:14:03] [Server thread/INFO]: im_evann joined the game
-[03:16:46] [Server thread/INFO]: Villager cpj['Librarian'/59008, l='ServerLevel[world]', x=5011.08, y=69.00, z=2020.30] died, message: 'Librarian was slain by Zombie'
-[03:17:37] [Server thread/INFO]: L_Liaz[/127.248.114.85:56405] logged in with entity id 102949 at (4836.924484683859, -2.0, 2003.2638712382334)
-[03:17:37] [Server thread/INFO]: L_Liaz joined the game
-[03:18:48] [Server thread/INFO]: Villager cpj['Leatherworker'/59258, l='ServerLevel[world]', x=4971.43, y=66.00, z=2009.30] died, message: 'Leatherworker was slain by Zombie'
-[03:27:16] [Server thread/INFO]: im_evann lost connection: Disconnected
-[03:27:16] [Server thread/INFO]: im_evann left the game
-[03:28:01] [Server thread/INFO]: L_Liaz lost connection: Disconnected
-[03:28:01] [Server thread/INFO]: L_Liaz left the game
-[03:28:07] [Server thread/INFO]: L_Liaz[/127.248.114.85:37895] logged in with entity id 112158 at (4833.013602835358, 23.0, 1972.2435961780889)
-[03:28:07] [Server thread/INFO]: L_Liaz joined the game
-[03:29:21] [Server thread/INFO]: im_evann[/127.176.104.174:41319] logged in with entity id 112880 at (4967.619223346015, 63.9375, 2026.8592705902697)
-[03:29:21] [Server thread/INFO]: im_evann joined the game
-[03:31:24] [Server thread/INFO]: Emori77 was doomed to fall by L_Liaz
-[03:32:19] [Server thread/INFO]: L_Liaz has made the advancement [Ice Bucket Challenge]
-[03:35:05] [Server thread/INFO]: L_Liaz lost connection: Disconnected
-[03:35:05] [Server thread/INFO]: L_Liaz left the game
-[03:35:56] [Server thread/INFO]: L_Liaz[/127.248.114.85:34707] logged in with entity id 117836 at (4839.62196522796, 65.0, 2041.6826839216985)
-[03:35:56] [Server thread/INFO]: L_Liaz joined the game
-[03:36:30] [Server thread/INFO]: [Not Secure] <Emori77> 851 386
-[03:41:26] [Server thread/INFO]: Gghost lost connection: Disconnected
-[03:41:26] [Server thread/INFO]: Gghost left the game
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 10.118135861128394,0.0,-0.8582815723225394
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 10.512968199011993,0.0,-0.9077799785773095
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 10.908101468105997,0.0,-0.9564781513408889
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 11.303576851261823,0.0,-1.0037040093016003
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 11.699412048985323,0.0,-1.0489279939556582
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 12.095607915481196,0.0,-1.0917416547526955
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 12.492153585453252,0.0,-1.1318382098365873
-[03:46:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 12.889030369239208,0.0,-1.1689949324345434
-[03:46:38] [Server thread/INFO]: RACIST_Gsus[/127.4.66.102:42017] logged in with entity id 131112 at (608.6211511038289, 66.0, -241.1190957719909)
-[03:46:38] [Server thread/INFO]: RACIST_Gsus joined the game
-[03:46:47] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> hola
-[03:46:52] [Server thread/INFO]: [Not Secure] <im_evann> disc
-[03:46:52] [Server thread/INFO]: [Not Secure] <Emori77> dc
-[03:46:56] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> mis botas p
-[03:47:01] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> victor regalame
-[03:47:30] [Server thread/INFO]: [Not Secure] <L_Liaz> juan
-[03:47:34] [Server thread/INFO]: [Not Secure] <L_Liaz> 5000 2000
-[03:47:35] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> k
-[03:47:42] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> chupame
-[03:47:49] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> xk tan lejos wbn
-[03:52:46] [Server thread/WARN]: im_evann moved wrongly!
-[03:55:01] [Server thread/INFO]: Emori77 lost connection: Disconnected
-[03:55:01] [Server thread/INFO]: Emori77 left the game
-[03:55:30] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> 5000 200??
-[03:55:33] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> 2000
-[03:55:40] [Server thread/INFO]: [Not Secure] <L_Liaz> si
-[04:02:09] [Server thread/INFO]: Emori77[/127.187.88.135:52539] logged in with entity id 147622 at (4971.281149068073, 66.0, 1975.068057194579)
-[04:02:09] [Server thread/INFO]: Emori77 joined the game
-[04:02:24] [Server thread/INFO]: Emori77 lost connection: Disconnected
-[04:02:24] [Server thread/INFO]: Emori77 left the game
-[04:05:14] [Server thread/INFO]: L_Liaz lost connection: Timed out
-[04:05:14] [Server thread/INFO]: L_Liaz left the game
-[04:05:14] [Server thread/WARN]: handleDisconnection() called twice
-[04:05:25] [Server thread/INFO]: RACIST_Gsus lost connection: Timed out
-[04:05:25] [Server thread/INFO]: RACIST_Gsus left the game
-[04:05:25] [Server thread/INFO]: im_evann lost connection: You logged in from another location
-[04:05:25] [Server thread/INFO]: im_evann left the game
-[04:05:26] [Server thread/INFO]: im_evann[/127.176.104.174:52863] logged in with entity id 151588 at (4990.904380723881, 63.0, 2815.1596680749476)
-[04:05:26] [Server thread/INFO]: im_evann joined the game
-[04:05:29] [Server thread/INFO]: L_Liaz[/127.248.114.85:33233] logged in with entity id 151886 at (4897.300000011921, 70.41999998688698, 2219.7913808300336)
-[04:05:29] [Server thread/INFO]: L_Liaz joined the game
-[04:05:51] [Server thread/INFO]: RACIST_Gsus[/127.4.66.102:42981] logged in with entity id 152410 at (4391.214230304319, 73.0, 1984.5879607060506)
-[04:05:51] [Server thread/INFO]: RACIST_Gsus joined the game
-[04:08:26] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> llewgue
-[04:09:04] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> donde estan
-[04:09:14] [Server thread/INFO]: [Not Secure] <im_evann> va
-[04:09:17] [Server thread/INFO]: [Not Secure] <im_evann> vamo
-[04:09:20] [Server thread/INFO]: [Not Secure] <im_evann> a
-[04:09:28] [Server thread/INFO]: [Not Secure] <im_evann> aaaaa
-[04:09:32] [Server thread/INFO]: [Not Secure] <im_evann> cords
-[04:09:34] [Server thread/INFO]: [Not Secure] <im_evann> ?
-[04:09:53] [Server thread/INFO]: [Not Secure] <im_evann> e la aldea haremos murallas p
-[04:09:54] [Server thread/INFO]: RACIST_Gsus lost connection: Disconnected
-[04:09:54] [Server thread/INFO]: RACIST_Gsus left the game
-[04:10:08] [Server thread/INFO]: RACIST_Gsus[/127.4.66.102:46135] logged in with entity id 156660 at (5007.921240032213, 69.0, 2020.7228420688766)
-[04:10:08] [Server thread/INFO]: RACIST_Gsus joined the game
-[04:10:46] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> tienen diamantes?
-[04:10:52] [Server thread/INFO]: [Not Secure] <L_Liaz> yo no
-[04:10:56] [Server thread/INFO]: [Not Secure] <L_Liaz> poquitos nomas
-[04:11:01] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> te odio
-[04:11:04] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> ojala te mueras
-[04:11:08] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> server de mrd
-[04:11:20] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:11:20] [Server thread/INFO]: im_evann left the game
-[04:11:33] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> xk se fue
-[04:11:39] [Server thread/INFO]: [Not Secure] <L_Liaz> ahorita entra xd
-[04:11:49] [Server thread/INFO]: im_evann[/127.176.104.174:39785] logged in with entity id 158087 at (4988.812624606643, 87.0, 2897.176904223686)
-[04:11:49] [Server thread/INFO]: im_evann joined the game
-[04:12:00] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> dond estan
-[04:12:10] [Server thread/INFO]: [Not Secure] <L_Liaz> en la aldea pe
-[04:12:19] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> no hay nadie
-[04:12:43] [Server thread/INFO]: [Not Secure] <im_evann> dc mrd
-[04:12:56] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> dond estas
-[04:13:14] [Server thread/INFO]: [Not Secure] <im_evann> 5000 2778
-[04:13:57] [Server thread/INFO]: [Not Secure] <im_evann> o
-[04:13:58] [Server thread/INFO]: [Not Secure] <L_Liaz> 5000 2000
-[04:14:07] [Server thread/INFO]: [Not Secure] <im_evann> me webie xd
-[04:14:34] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> no hay nadie
-[04:14:39] [Server thread/INFO]: L_Liaz has made the advancement [Take Aim]
-[04:14:42] [Server thread/INFO]: [Not Secure] <im_evann> toy yedo
-[04:17:02] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> de quien es el gato
-[04:17:08] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> estoy que cobro cupo
-[04:17:08] [Server thread/INFO]: [Not Secure] <im_evann> cual
-[04:17:11] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> x su vida
-[04:17:14] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> uno negro
-[04:17:23] [Server thread/INFO]: [Not Secure] <im_evann> sera de marua p
-[04:17:26] [Server thread/INFO]: [Not Secure] <im_evann> o de mateo
-[04:18:00] [Server thread/INFO]: [Not Secure] <im_evann> tan que viven juntos
-[04:18:07] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> ta vi
-[04:18:07] [Server thread/INFO]: [Not Secure] <im_evann> mateo entro al server
-[04:18:18] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> ya¨*
-[04:22:30] [Server thread/INFO]: RACIST_Gsus lost connection: Disconnected
-[04:22:30] [Server thread/INFO]: RACIST_Gsus left the game
-[04:28:04] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:28:04] [Server thread/INFO]: im_evann left the game
-[04:28:19] [Server thread/INFO]: im_evann[/127.176.104.174:39239] logged in with entity id 164505 at (4942.694254470495, 101.0, 2320.4885665806487)
-[04:28:19] [Server thread/INFO]: im_evann joined the game
-[04:34:07] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:34:07] [Server thread/INFO]: im_evann left the game
-[04:35:08] [Server thread/INFO]: im_evann[/127.176.104.174:48069] logged in with entity id 165877 at (4957.588543754153, 100.0, 2327.118751308674)
-[04:35:08] [Server thread/INFO]: im_evann joined the game
-[04:39:59] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:39:59] [Server thread/INFO]: im_evann left the game
-[04:40:11] [Server thread/INFO]: im_evann[/127.176.104.174:43605] logged in with entity id 166743 at (4959.288190540447, 100.0, 2331.9816328688444)
-[04:40:11] [Server thread/INFO]: im_evann joined the game
-[04:45:18] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:45:18] [Server thread/INFO]: im_evann left the game
-[04:45:45] [Server thread/INFO]: Rip_Nupe[/127.191.142.225:42819] logged in with entity id 169371 at (298.7432238110616, 70.0, -354.6507037568437)
-[04:45:45] [Server thread/INFO]: Rip_Nupe joined the game
-[04:45:58] [Server thread/INFO]: [Not Secure] <L_Liaz> 5000 2000
-[04:46:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=378, y=69, z=-328} jh{x=378, y=66, z=-327}
-[04:48:25] [Server thread/INFO]: im_evann[/127.176.104.174:40237] logged in with entity id 171488 at (4931.196239368567, 100.0, 2310.0863565705145)
-[04:48:25] [Server thread/INFO]: im_evann joined the game
+[23:31:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:31:44] [ServerMain/INFO]: Loaded 1337 recipes
+[23:31:44] [ServerMain/INFO]: Loaded 1448 advancements
+[23:31:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:31:44] [Server thread/INFO]: Loading properties
+[23:31:44] [Server thread/INFO]: Default game type: SURVIVAL
+[23:31:44] [Server thread/INFO]: Generating keypair
+[23:31:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:31:45] [Server thread/INFO]: Using epoll channel type
+[23:31:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:31:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:31:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:31:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:31:45] [Server thread/INFO]: Preparing level "world"
+[23:31:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:58] [Server thread/INFO]: Time elapsed: 11984 ms
+[23:31:58] [Server thread/INFO]: Done (12.676s)! For help, type "help"
+[23:32:17] [Server thread/INFO]: L_Liaz[/127.248.114.85:54177] logged in with entity id 2 at (4916.37216021201, 100.0, 2296.731156667762)
+[23:32:17] [Server thread/INFO]: L_Liaz joined the game
+[23:32:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
