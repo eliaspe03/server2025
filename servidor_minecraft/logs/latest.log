@@ -52,3 +52,5 @@
 [01:54:07] [Server thread/INFO]: Gghost[/127.126.37.154:46361] logged in with entity id 903 at (621.0284333960635, 69.0, -272.1124631448308)
 [01:54:07] [Server thread/INFO]: Gghost joined the game
 [01:54:22] [Server thread/WARN]: UUID of added entity already exists: cic['Chicken'/1056, l='ServerLevel[world]', x=822.14, y=96.00, z=-464.21]
+[02:04:04] [Server thread/WARN]: L_Liaz moved too quickly! 7.840738497304187,-6.176759275064242,-2.1885902796325922
+[02:05:38] [Server thread/INFO]: Gghost has made the advancement [Isn't It Iron Pick]
