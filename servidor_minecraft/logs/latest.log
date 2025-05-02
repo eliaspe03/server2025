@@ -1,342 +1,54 @@
-[03:26:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:26:44] [ServerMain/INFO]: Loaded 1337 recipes
-[03:26:44] [ServerMain/INFO]: Loaded 1448 advancements
-[03:26:45] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:26:45] [Server thread/INFO]: Loading properties
-[03:26:45] [Server thread/INFO]: Default game type: SURVIVAL
-[03:26:45] [Server thread/INFO]: Generating keypair
-[03:26:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:26:46] [Server thread/INFO]: Using epoll channel type
-[03:26:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:26:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:26:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:26:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:26:46] [Server thread/INFO]: Preparing level "world"
-[03:26:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:27:02] [Server thread/INFO]: Time elapsed: 15278 ms
-[03:27:02] [Server thread/INFO]: Done (16.015s)! For help, type "help"
-[03:27:12] [Server thread/INFO]: L_Liaz[/127.243.242.86:38399] logged in with entity id 10 at (262.83967896537564, 68.0, -359.662739141146)
-[03:27:13] [Server thread/INFO]: L_Liaz joined the game
-[03:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
-[03:27:18] [Server thread/INFO]: RACIST_Gsus[/127.4.66.102:50711] logged in with entity id 285 at (-9.5, 78.0, 5.5)
-[03:27:18] [Server thread/INFO]: RACIST_Gsus joined the game
-[03:27:35] [Server thread/INFO]: [L_Liaz: Set the time to 1000]
-[03:27:38] [Server thread/WARN]: UUID of added entity already exists: cmn['Enderman'/591, l='ServerLevel[world]', x=204.67, y=64.00, z=-145.79]
-[03:27:52] [Server thread/INFO]: im_evann[/127.176.104.174:56781] logged in with entity id 706 at (9.5, 76.0, -7.5)
-[03:27:52] [Server thread/INFO]: im_evann joined the game
-[03:28:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=77, z=-4}
-[03:28:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=78, z=-4}
-[03:28:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=77, z=-4}
-[03:28:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=77, z=-4}
-[03:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=79, z=-1}
-[03:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=11, y=79, z=-2}
-[03:28:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=11, y=78, z=-2}
-[03:28:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=15, y=81, z=-4}
-[03:28:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=14, y=80, z=-4}
-[03:28:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=15, y=81, z=-5}
-[03:28:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=13, y=83, z=-11}
-[03:28:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=13, y=83, z=-12}
-[03:28:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=14, y=84, z=-12}
-[03:28:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=15, y=84, z=-12}
-[03:28:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=15, y=84, z=-12}
-[03:28:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=85, z=-13}
-[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=85, z=-13}
-[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=86, z=-13}
-[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=86, z=-14}
-[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=86, z=-15}
-[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=86, z=-14}
-[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=16, y=86, z=-15}
-[03:28:25] [Server thread/INFO]: [L_Liaz: Set the world spawn point to 236, 69, -354 [0.0]]
-[03:28:32] [Server thread/INFO]: L_Liaz was killed
-[03:28:32] [Server thread/INFO]: RACIST_Gsus was killed
-[03:28:32] [Server thread/INFO]: im_evann was killed
-[03:28:32] [Server thread/INFO]: [L_Liaz: Killed 512 entities]
-[03:28:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=233, y=69, z=-352}
-[03:28:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=234, y=69, z=-352}
-[03:28:48] [Server thread/INFO]: [L_Liaz: Set own game mode to Survival Mode]
-[03:28:50] [Server thread/INFO]: Emori77[/127.187.88.135:43253] logged in with entity id 2208 at (226.5, 71.0, -346.5)
-[03:28:50] [Server thread/INFO]: Emori77 joined the game
-[03:30:05] [Server thread/INFO]: [L_Liaz: Set own game mode to Creative Mode]
-[03:30:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=450, y=64, z=-499} jh{x=450, y=62, z=-500}
-[03:31:05] [Server thread/INFO]: [L_Liaz: Set own game mode to Survival Mode]
-[03:31:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=401, y=64, z=-503} jh{x=402, y=62, z=-504}
-[03:31:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=401, y=64, z=-503} jh{x=402, y=62, z=-504}
-[03:31:25] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=402, y=64, z=-504} jh{x=402, y=62, z=-504}
-[03:31:30] [Server thread/INFO]: [L_Liaz: Made L_Liaz no longer a server operator]
-[03:31:38] [Server thread/INFO]: RACIST_Gsus has made the advancement [Stone Age]
-[03:32:07] [Server thread/INFO]: RACIST_Gsus has made the advancement [Getting an Upgrade]
-[03:32:28] [Server thread/INFO]: Emori77 has made the advancement [Stone Age]
-[03:33:08] [Server thread/INFO]: Emori77 has made the advancement [Getting an Upgrade]
-[03:37:10] [Server thread/INFO]: RACIST_Gsus has made the advancement [Acquire Hardware]
-[03:37:17] [Server thread/INFO]: L_Liaz has made the advancement [Getting an Upgrade]
-[03:37:25] [Server thread/INFO]: im_evann has made the advancement [Stone Age]
-[03:37:40] [Server thread/INFO]: im_evann has made the advancement [Getting an Upgrade]
-[03:38:04] [Server thread/INFO]: Emori77 has made the advancement [Acquire Hardware]
-[03:38:31] [Server thread/INFO]: Emori77 has made the advancement [Isn't It Iron Pick]
-[03:39:05] [Server thread/INFO]: RACIST_Gsus has made the advancement [Monster Hunter]
-[03:39:24] [Server thread/INFO]: RACIST_Gsus has made the advancement [Isn't It Iron Pick]
-[03:39:43] [Server thread/INFO]: Emori77 has made the advancement [Suit Up]
-[03:39:43] [Server thread/INFO]: L_Liaz was shot by Skeleton
-[03:40:55] [Server thread/INFO]: RACIST_Gsus was shot by Skeleton
-[03:41:22] [Server thread/INFO]: Rip_Nupe[/127.191.142.225:49133] logged in with entity id 12017 at (228.5, 71.0, -356.5)
-[03:41:22] [Server thread/INFO]: Rip_Nupe joined the game
-[03:41:25] [Server thread/INFO]: L_Liaz has made the advancement [Sweet Dreams]
-[03:43:16] [Server thread/INFO]: L_Liaz has made the advancement [Acquire Hardware]
-[03:43:28] [Server thread/INFO]: L_Liaz has made the advancement [Isn't It Iron Pick]
-[03:43:28] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> VICTOR
-[03:43:38] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> MIRA
-[03:43:48] [Server thread/INFO]: [Not Secure] <Rip_Nupe> un cora
-[03:43:51] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame diamons
-[03:43:58] [Server thread/INFO]: [Not Secure] <L_Liaz> 598 66 -244
-[03:46:02] [Server thread/INFO]: RACIST_Gsus has made the advancement [Suit Up]
-[03:46:36] [Server thread/INFO]: [Not Secure] <Rip_Nupe> donde estan?
-[03:47:08] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ya se ya
-[03:47:11] [Server thread/INFO]: [Not Secure] <Rip_Nupe> pasen cord
-[03:47:31] [Server thread/INFO]: [Not Secure] <Rip_Nupe> pasen
-[03:47:34] [Server thread/INFO]: [Not Secure] <Rip_Nupe> mrd
-[03:47:43] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tengo 64 de pan
-[03:47:45] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> XD
-[03:47:46] [Server thread/INFO]: [Not Secure] <Rip_Nupe> les doy
-[03:47:48] [Server thread/INFO]: [Not Secure] <im_evann> 598 66 -244
-[03:47:49] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> XDD
-[03:48:35] [Server thread/INFO]: [Not Secure] <Rip_Nupe> que paso con el server de mod kklias?
-[03:49:30] [Server thread/INFO]: [Not Secure] <L_Liaz> 598 66 -244
-[03:49:32] [Server thread/INFO]: [Not Secure] <L_Liaz> 598 66 -244
-[03:50:10] [Server thread/INFO]: ItzKingRz[/127.176.104.174:46239] logged in with entity id 18668 at (241.5, 70.0, -348.5)
-[03:50:10] [Server thread/INFO]: ItzKingRz joined the game
-[03:50:54] [Server thread/INFO]: [Not Secure] <ItzKingRz> }
-[03:51:31] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ven estebin
-[03:51:41] [Server thread/INFO]: [Not Secure] <ItzKingRz> yhaganme tp kk
-[03:52:04] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> 627 12 -655
-[03:52:17] [Server thread/INFO]: [Not Secure] <Emori77> ay sueño
-[03:52:32] [Server thread/INFO]: [Not Secure] <Emori77> que rico el pene ayayayayayayaya
-[03:52:43] [Server thread/INFO]: [Not Secure] <im_evann> ay sueño
-[03:52:52] [Server thread/INFO]: Emori77 has made the advancement [Hot Stuff]
-[03:52:56] [Server thread/INFO]: [Not Secure] <Rip_Nupe> esteban riko
-[03:53:02] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame
-[03:53:06] [Server thread/INFO]: [Not Secure] <L_Liaz> 598 66 -244
-[03:54:44] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no, y
-[03:54:51] [Server thread/INFO]: RACIST_Gsus has made the advancement [Diamonds!]
-[03:55:13] [Server thread/INFO]: RACIST_Gsus has made the advancement [Not Today, Thank You]
-[03:55:48] [Server thread/INFO]: RACIST_Gsus was shot by Skeleton
-[03:56:09] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tmr ese negro
-[03:56:38] [Server thread/INFO]: ItzKingRz was slain by Rip_Nupe
-[03:59:52] [Server thread/INFO]: sebasex_[/127.163.20.110:35067] logged in with entity id 25386 at (230.5, 70.0, -356.5)
-[03:59:52] [Server thread/INFO]: sebasex_ joined the game
-[04:00:05] [Server thread/WARN]: ItzKingRz moved too quickly! 7.14069620953137,-0.5800000131130219,-7.262985901505573
-[04:00:05] [Server thread/WARN]: sebasex_ moved too quickly! 8.137056409317438,0.17675927506424216,-6.143117680088494
-[04:00:11] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no tengo
-[04:00:16] [Server thread/INFO]: [Not Secure] <sebasex_> callate perra
-[04:00:43] [Server thread/INFO]: Villager cpj['Villager'/11458, l='ServerLevel[world]', x=549.50, y=64.00, z=-243.65] died, message: 'Villager was slain by Zombie'
-[04:01:00] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame piedra
-[04:01:02] [Server thread/INFO]: [Not Secure] <Rip_Nupe> esteban
-[04:01:03] [Server thread/INFO]: Emori77 has made the advancement [Diamonds!]
-[04:01:06] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame 3
-[04:01:25] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame roca, piedra
-[04:01:30] [Server thread/INFO]: [Not Secure] <Rip_Nupe> lo q xuxa sea
-[04:01:34] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame 3
-[04:02:01] [Server thread/INFO]: sebasex_ has made the advancement [Stone Age]
-[04:02:53] [Server thread/INFO]: ItzKingRz has made the advancement [Stone Age]
-[04:03:01] [Server thread/INFO]: Rip_Nupe has made the advancement [Stone Age]
-[04:03:16] [Server thread/INFO]: sebasex_ has made the advancement [Getting an Upgrade]
-[04:03:24] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tmr
-[04:03:25] [Server thread/INFO]: Rip_Nupe burned to death
-[04:03:45] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no era casdi nd
-[04:03:47] [Server thread/INFO]: ItzKingRz tried to swim in lava
-[04:03:49] [Server thread/INFO]: sebasex_ has made the advancement [Monster Hunter]
-[04:03:57] [Server thread/INFO]: [Not Secure] <Rip_Nupe> l acama no sirve aca>?
-[04:03:59] [Server thread/INFO]: Emori77 lost connection: Disconnected
-[04:03:59] [Server thread/INFO]: Emori77 left the game
-[04:04:08] [Server thread/INFO]: Emori77[/127.187.88.135:46965] logged in with entity id 28389 at (356.42244444321807, -9.0, -232.88111716767483)
-[04:04:08] [Server thread/INFO]: Emori77 joined the game
-[04:04:21] [Server thread/INFO]: im_evann has made the advancement [Monster Hunter]
-[04:05:33] [Server thread/INFO]: Villager cpj['Villager'/11457, l='ServerLevel[world]', x=595.03, y=66.00, z=-209.50] died, message: 'Villager was slain by Zombie'
-[04:05:43] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no encuentro
-[04:06:00] [Server thread/INFO]: [Not Secure] <Rip_Nupe> yo
-[04:06:06] [Server thread/INFO]: Rip_Nupe has made the advancement [Sweet Dreams]
-[04:06:13] [Server thread/INFO]: Made L_Liaz a server operator
-[04:06:19] [Server thread/INFO]: [L_Liaz: The difficulty has been set to Hard]
-[04:06:26] [Server thread/INFO]: Made L_Liaz no longer a server operator
-[04:06:55] [Server thread/INFO]: Villager cpj['Villager'/11524, l='ServerLevel[world]', x=610.50, y=67.00, z=-254.34] died, message: 'Villager was slain by sebasex_'
-[04:07:27] [Server thread/INFO]: RACIST_Gsus has made the advancement [Ice Bucket Challenge]
-[04:07:38] [Server thread/INFO]: [Not Secure] <Rip_Nupe> kklias dame algo p
-[04:07:49] [Server thread/INFO]: ItzKingRz was slain by Iron Golem
-[04:09:17] [Server thread/INFO]: Rip_Nupe has made the advancement [Getting an Upgrade]
-[04:10:34] [Server thread/INFO]: [Not Secure] <Rip_Nupe> kklias si sale pollo me das algo
-[04:11:13] [Server thread/INFO]: im_evann was slain by Rip_Nupe
-[04:12:05] [Server thread/INFO]: ItzKingRz has made the advancement [Acquire Hardware]
-[04:12:14] [Server thread/INFO]: sebasex_ has made the advancement [Acquire Hardware]
-[04:12:35] [Server thread/INFO]: [Not Secure] <Rip_Nupe> voy hablar me dicen si se escucha
-[04:12:38] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ya?
-[04:12:51] [Server thread/INFO]: Rip_Nupe lost connection: Disconnected
-[04:12:51] [Server thread/INFO]: Rip_Nupe left the game
-[04:12:56] [Server thread/INFO]: [Not Secure] <L_Liaz> 598 66 -244
-[04:13:00] [Server thread/INFO]: Rip_Nupe[/127.191.142.225:59339] logged in with entity id 34120 at (577.8571107046138, 68.0, -333.1289802465595)
-[04:13:00] [Server thread/INFO]: Rip_Nupe joined the game
-[04:13:16] [Server thread/INFO]: im_evann has made the advancement [Acquire Hardware]
-[04:13:21] [Server thread/INFO]: im_evann has made the advancement [Suit Up]
-[04:13:22] [Server thread/INFO]: im_evann was slain by Rip_Nupe
-[04:14:09] [Server thread/INFO]: RACIST_Gsus has made the advancement [Cover Me with Diamonds]
-[04:14:15] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no res
-[04:14:16] [Server thread/INFO]: Rip_Nupe was slain by im_evann
-[04:14:23] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no tengo respawn
-[04:14:53] [Server thread/INFO]: ItzKingRz has made the advancement [Isn't It Iron Pick]
-[04:15:09] [Server thread/INFO]: Rip_Nupe was slain by ItzKingRz
-[04:15:14] [Server thread/INFO]: ItzKingRz has made the advancement [Getting an Upgrade]
-[04:15:41] [Server thread/INFO]: sebasex_ has made the advancement [Suit Up]
-[04:15:47] [Server thread/INFO]: ItzKingRz has made the advancement [Suit Up]
-[04:15:50] [Server thread/INFO]: ItzKingRz was slain by Rip_Nupe
-[04:15:53] [Server thread/INFO]: Rip_Nupe has made the advancement [Suit Up]
-[04:15:53] [Server thread/INFO]: Rip_Nupe has made the advancement [Acquire Hardware]
-[04:15:53] [Server thread/INFO]: Rip_Nupe has made the advancement [Isn't It Iron Pick]
-[04:16:51] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ven y te lo doy
-[04:17:17] [Server thread/INFO]: [Not Secure] <Rip_Nupe> te doy pero mi pingaa
-[04:17:39] [Server thread/INFO]: im_evann has made the advancement [Isn't It Iron Pick]
-[04:17:51] [Server thread/INFO]: RACIST_Gsus has made the advancement [Enchanter]
-[04:17:53] [Server thread/INFO]: im_evann has made the advancement [Sweet Dreams]
-[04:17:55] [Server thread/INFO]: [Not Secure] <im_evann> zz
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:56] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:57] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:17:58] [Server thread/INFO]: [Not Secure] <im_evann> z
-[04:18:01] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame hierro
-[04:18:02] [Server thread/INFO]: ItzKingRz has made the advancement [Sweet Dreams]
-[04:18:08] [Server thread/INFO]: sebasex_ has made the advancement [Sweet Dreams]
-[04:18:09] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:11] [Server thread/INFO]: [Not Secure] <sebasex_> }z}z}z}z}z}}
-[04:18:11] [Server thread/INFO]: [Not Secure] <sebasex_> }z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> }z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:12] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:13] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:13] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:13] [Server thread/INFO]: [Not Secure] <sebasex_> z
-[04:18:13] [Server thread/INFO]: sebasex_ lost connection: Kicked for spamming
-[04:18:13] [Server thread/INFO]: sebasex_ left the game
-[04:18:13] [Server thread/WARN]: handleDisconnection() called twice
-[04:18:23] [Server thread/INFO]: sebasex_[/127.163.20.110:35583] logged in with entity id 37516 at (526.5, 63.0, -242.5)
-[04:18:23] [Server thread/INFO]: sebasex_ joined the game
-[04:18:56] [Server thread/INFO]: [Not Secure] <Rip_Nupe> juan dame pico de hierro y hacha
-[04:19:21] [Server thread/INFO]: im_evann fell from a high place
-[04:19:24] [Server thread/INFO]: Rip_Nupe has made the advancement [Monster Hunter]
-[04:19:41] [Server thread/INFO]: Rip_Nupe was shot by Skeleton
-[04:19:44] [Server thread/INFO]: im_evann fell from a high place
-[04:20:04] [Server thread/INFO]: im_evann was shot by Skeleton
-[04:20:28] [Server thread/INFO]: Rip_Nupe was shot by Skeleton
-[04:21:10] [Server thread/INFO]: Emori77 has made the advancement [Cover Me with Diamonds]
-[04:21:32] [Server thread/INFO]: [Not Secure] <Rip_Nupe> dame
-[04:21:41] [Server thread/INFO]: [Not Secure] <Rip_Nupe> comida
-[04:21:46] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tineen?
-[04:21:52] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tienen?
-[04:21:55] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> QUE COSA
-[04:21:58] [Server thread/INFO]: [Not Secure] <Rip_Nupe> comida
-[04:22:05] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> nada xD
-[04:22:33] [Server thread/INFO]: RACIST_Gsus has made the advancement [Sweet Dreams]
-[04:22:57] [Server thread/INFO]: Rip_Nupe was shot by Skeleton
-[04:23:02] [Server thread/INFO]: im_evann was shot by Skeleton
-[04:23:16] [Server thread/INFO]: L_Liaz has made the advancement [Not Today, Thank You]
-[04:23:49] [Server thread/INFO]: im_evann was shot by Skeleton
-[04:24:08] [Server thread/INFO]: Villager cpj['Villager'/11376, l='ServerLevel[world]', x=560.24, y=64.00, z=-243.69] died, message: 'Villager was slain by ItzKingRz'
-[04:24:25] [Server thread/INFO]: Emori77 has made the advancement [Sweet Dreams]
-[04:24:35] [Server thread/INFO]: [Not Secure] <Emori77> duerman pe
-[04:24:36] [Server thread/INFO]: im_evann was shot by Skeleton
-[04:24:58] [Server thread/INFO]: Emori77 has made the advancement [Monster Hunter]
-[04:25:19] [Server thread/INFO]: im_evann was doomed to fall by Skeleton
-[04:26:21] [Server thread/INFO]: ItzKingRz was shot by Skeleton
-[04:26:32] [Server thread/INFO]: [Not Secure] <Rip_Nupe> encontre en la cueva esa basura de ns
-[04:26:37] [Server thread/INFO]: [Not Secure] <Rip_Nupe> donde hay rieles
-[04:27:13] [Server thread/INFO]: Villager cpj['Villager'/11408, l='ServerLevel[world]', x=570.87, y=65.00, z=-244.51] died, message: 'Villager was slain by ItzKingRz'
-[04:27:36] [Server thread/INFO]: L_Liaz has made the advancement [Suit Up]
-[04:27:40] [Server thread/INFO]: im_evann has made the advancement [Cover Me with Diamonds]
-[04:27:50] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ayuden
-[04:27:55] [Server thread/INFO]: [Not Secure] <Rip_Nupe> esteban
-[04:27:59] [Server thread/INFO]: Villager cpj['Cleric'/11377, l='ServerLevel[world]', x=565.49, y=67.00, z=-220.98] died, message: 'Cleric was slain by ItzKingRz'
-[04:28:33] [Server thread/INFO]: Rip_Nupe was shot by Skeleton
-[04:29:55] [Server thread/INFO]: [Not Secure] <Rip_Nupe> juan tienes un cubo?
-[04:30:03] [Server thread/INFO]: ItzKingRz has made the advancement [Diamonds!]
-[04:30:16] [Server thread/INFO]: [Not Secure] <Rip_Nupe> cubo
-[04:30:17] [Server thread/INFO]: [Not Secure] <sebasex_> bioma de pandas god
-[04:30:47] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tenia pero encontre eso de rieles en la cueva
-[04:31:18] [Server thread/INFO]: [Not Secure] <Rip_Nupe> no quiero usado
-[04:31:36] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ven
-[04:31:58] [Server thread/INFO]: [Not Secure] <Rip_Nupe> ven
-[04:32:20] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tmr
-[04:33:11] [Server thread/INFO]: ItzKingRz burned to death
-[04:36:42] [Server thread/WARN]: sebasex_ moved too quickly! 2.513734801716055,2.752148900367459,-9.44865197772367
-[04:38:05] [Server thread/INFO]: Rip_Nupe was slain by Cave Spider
-[04:40:01] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:40:01] [Server thread/INFO]: im_evann left the game
-[04:40:24] [Server thread/INFO]: sebasex_ lost connection: Disconnected
-[04:40:24] [Server thread/INFO]: sebasex_ left the game
-[04:41:45] [Server thread/INFO]: sebasex_[/127.163.20.110:54911] logged in with entity id 56395 at (1647.9406265884322, 111.0, -677.6999999880791)
-[04:41:45] [Server thread/INFO]: sebasex_ joined the game
-[04:41:52] [Server thread/INFO]: Rip_Nupe was slain by Zombie
-[04:42:57] [Server thread/INFO]: Gghost[/127.126.37.154:46765] logged in with entity id 58210 at (245.5, 70.0, -343.5)
-[04:42:57] [Server thread/INFO]: Gghost joined the game
-[04:42:59] [Server thread/INFO]: L_Liaz was slain by Enderman
-[04:43:00] [Server thread/INFO]: im_evann[/127.176.104.174:43825] logged in with entity id 58413 at (763.6999999880791, -31.0, -222.30000001192093)
-[04:43:00] [Server thread/INFO]: im_evann joined the game
-[04:43:18] [Server thread/INFO]: [Not Secure] <Gghost> chikos
-[04:43:21] [Server thread/INFO]: [Not Secure] <Gghost> tepe
-[04:43:27] [Server thread/INFO]: [Not Secure] <Gghost> cords
-[04:43:28] [Server thread/INFO]: ItzKingRz has made the advancement [Monster Hunter]
-[04:43:30] [Server thread/INFO]: [Not Secure] <L_Liaz> 598 66 -244
-[04:43:35] [Server thread/INFO]: [Not Secure] <Gghost> teamo
-[04:43:42] [Server thread/INFO]: sebasex_ fell from a high place
-[04:44:00] [Server thread/INFO]: sebasex_ lost connection: Disconnected
-[04:44:00] [Server thread/INFO]: sebasex_ left the game
-[04:46:17] [Server thread/WARN]: L_Liaz moved wrongly!
-[04:47:12] [Server thread/INFO]: [Not Secure] <Rip_Nupe> esteban tarao
-[04:48:25] [Server thread/INFO]: Rip_Nupe was blown up by Creeper
-[04:49:27] [Server thread/INFO]: Emori77 lost connection: Disconnected
-[04:49:27] [Server thread/INFO]: Emori77 left the game
-[04:49:31] [Server thread/INFO]: im_evann has made the advancement [Diamonds!]
-[04:50:03] [Server thread/INFO]: Gghost was slain by RACIST_Gsus
-[04:50:11] [Server thread/INFO]: [Not Secure] <Rip_Nupe> tienes un pico q no te sirva?
-[04:51:40] [Server thread/INFO]: Rip_Nupe was slain by RACIST_Gsus
-[04:51:43] [Server thread/INFO]: [Not Secure] <RACIST_Gsus> q
-[04:51:53] [Server thread/INFO]: [Not Secure] <Rip_Nupe> quiero recuperar mi cosas p
-[04:52:57] [Server thread/INFO]: Gghost has made the advancement [Stone Age]
-[04:52:57] [Server thread/INFO]: Gghost has made the advancement [Getting an Upgrade]
-[04:53:28] [Server thread/INFO]: Gghost was doomed to fall by Rip_Nupe
-[04:57:15] [Server thread/INFO]: Rip_Nupe was blown up by Creeper
+[01:51:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:51:25] [ServerMain/INFO]: Loaded 1337 recipes
+[01:51:25] [ServerMain/INFO]: Loaded 1448 advancements
+[01:51:25] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:51:25] [Server thread/INFO]: Loading properties
+[01:51:25] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:25] [Server thread/INFO]: Generating keypair
+[01:51:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:51:26] [Server thread/INFO]: Using epoll channel type
+[01:51:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:51:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:51:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:51:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:51:26] [Server thread/INFO]: Preparing level "world"
+[01:51:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:51:43] [Server thread/INFO]: Time elapsed: 16044 ms
+[01:51:43] [Server thread/INFO]: Done (17.013s)! For help, type "help"
+[01:51:46] [Server thread/INFO]: L_Liaz[/127.248.114.85:54713] logged in with entity id 85 at (602.3000000119209, -35.0, -118.69999998807907)
+[01:51:46] [Server thread/INFO]: L_Liaz joined the game
+[01:54:07] [Server thread/INFO]: Gghost[/127.126.37.154:46361] logged in with entity id 903 at (621.0284333960635, 69.0, -272.1124631448308)
+[01:54:07] [Server thread/INFO]: Gghost joined the game
+[01:54:22] [Server thread/WARN]: UUID of added entity already exists: cic['Chicken'/1056, l='ServerLevel[world]', x=822.14, y=96.00, z=-464.21]
