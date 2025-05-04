@@ -42,3 +42,13 @@
 [18:07:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [19:20:40] [Server thread/INFO]: L_Liaz[/127.248.114.85:45451] logged in with entity id 5065 at (4089.300000011921, -1.0, 1250.4051554193425)
 [19:20:40] [Server thread/INFO]: L_Liaz joined the game
+[19:46:22] [Server thread/INFO]: L_Liaz fell from a high place
+[19:46:42] [Server thread/INFO]: Made L_Liaz a server operator
+[19:46:46] [Server thread/INFO]: [L_Liaz: Teleported L_Liaz to 4018.500000, -45.500000, 1128.500000]
+[20:04:36] [Server thread/INFO]: im_evann[/127.176.104.174:37971] logged in with entity id 14571 at (5014.252926565055, 64.0, 2230.4717492652057)
+[20:04:36] [Server thread/INFO]: im_evann joined the game
+[20:16:23] [Server thread/INFO]: im_evann lost connection: Disconnected
+[20:16:23] [Server thread/INFO]: im_evann left the game
+[20:18:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@40af0002[id=c26d88ef-f48e-313b-b05b-903663d778b4,name=im_evann,properties={}] lost connection: Disconnected
+[20:18:09] [Server thread/INFO]: im_evann[/127.176.104.174:35181] logged in with entity id 21792 at (5041.0807501702875, 68.0, 2339.715868734655)
+[20:18:09] [Server thread/INFO]: im_evann joined the game
