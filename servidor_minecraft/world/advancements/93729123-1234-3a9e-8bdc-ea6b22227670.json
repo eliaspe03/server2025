@@ -1526,6 +1526,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-02 02:22:19 +0000",
+      "minecraft:cave_spider": "2025-05-04 01:29:52 +0000",
       "minecraft:skeleton": "2025-05-01 04:25:40 +0000",
       "minecraft:enderman": "2025-05-03 01:10:02 +0000",
       "minecraft:spider": "2025-05-01 04:25:07 +0000",
@@ -2410,6 +2411,78 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-05-04 00:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-05-04 01:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
     },
     "done": true
   },
