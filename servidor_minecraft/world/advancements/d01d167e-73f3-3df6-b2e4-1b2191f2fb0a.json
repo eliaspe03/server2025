@@ -7,17 +7,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-05-03 03:14:11 +0000",
+      "minecraft:beach": "2025-05-03 03:01:44 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-03 03:18:19 +0000",
       "minecraft:dark_forest": "2025-05-02 04:55:42 +0000",
       "minecraft:forest": "2025-05-01 03:46:16 +0000",
+      "minecraft:taiga": "2025-05-03 03:10:46 +0000",
       "minecraft:sparse_jungle": "2025-05-02 05:01:49 +0000",
       "minecraft:river": "2025-05-01 03:43:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-03 03:01:55 +0000",
+      "minecraft:stony_shore": "2025-05-03 03:03:43 +0000",
       "minecraft:dripstone_caves": "2025-05-01 04:25:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 04:50:50 +0000",
       "minecraft:desert": "2025-05-02 05:03:01 +0000",
       "minecraft:jungle": "2025-05-02 04:58:09 +0000",
+      "minecraft:ocean": "2025-05-03 03:04:18 +0000",
       "minecraft:cherry_grove": "2025-05-01 03:47:21 +0000",
       "minecraft:meadow": "2025-05-01 03:47:58 +0000",
+      "minecraft:birch_forest": "2025-05-03 03:30:59 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-01 04:03:59 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-03 03:15:50 +0000",
+      "minecraft:savanna": "2025-05-03 03:01:26 +0000",
       "minecraft:bamboo_jungle": "2025-05-02 04:57:38 +0000",
       "minecraft:plains": "2025-05-01 03:41:23 +0000"
     },
@@ -869,6 +879,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-05-01 04:37:01 +0000",
       "minecraft:skeleton": "2025-05-01 04:19:24 +0000",
+      "minecraft:spider": "2025-05-03 02:53:18 +0000",
       "minecraft:zombie": "2025-05-01 04:19:39 +0000",
       "minecraft:creeper": "2025-05-01 04:20:20 +0000",
       "minecraft:drowned": "2025-05-01 04:21:24 +0000"
@@ -1619,9 +1630,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-03 03:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-03 03:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-03 02:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-03 03:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-05-03 02:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-03 03:02:26 +0000"
     },
     "done": true
   },
@@ -1634,6 +1705,42 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-05-03 02:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 02:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-03 03:02:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-03 03:02:20 +0000"
     },
     "done": true
   },
