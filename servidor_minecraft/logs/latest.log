@@ -36,3 +36,21 @@
 [00:32:44] [Server thread/INFO]: Emori77[/127.187.88.135:37347] logged in with entity id 1948 at (715.3106042532493, 25.67881603582494, 253.03512360659883)
 [00:32:44] [Server thread/INFO]: Emori77 joined the game
 [00:32:48] [Server thread/INFO]: Emori77 tried to swim in lava
+[00:41:23] [Server thread/INFO]: Villager cpj['Farmer'/2673, l='ServerLevel[world]', x=4917.69, y=73.00, z=2255.65] was struck by lightning bwf['Lightning Bolt'/5962, l='ServerLevel[world]', x=4917.50, y=73.00, z=2255.50].
+[00:41:23] [Server thread/INFO]: Villager cpj['Nitwit'/335, l='ServerLevel[world]', x=4916.96, y=74.00, z=2255.01] was struck by lightning bwf['Lightning Bolt'/5962, l='ServerLevel[world]', x=4917.50, y=73.00, z=2255.50].
+[00:41:23] [Server thread/INFO]: Villager cpj['Cleric'/2627, l='ServerLevel[world]', x=4916.77, y=73.00, z=2255.77] was struck by lightning bwf['Lightning Bolt'/5962, l='ServerLevel[world]', x=4917.50, y=73.00, z=2255.50].
+[00:50:38] [Server thread/INFO]: Emori77 lost connection: Disconnected
+[00:50:38] [Server thread/INFO]: Emori77 left the game
+[00:50:52] [Server thread/INFO]: Emori77[/127.187.88.135:42531] logged in with entity id 10031 at (622.5341683543962, 38.87889828139562, 251.03426469968883)
+[00:50:52] [Server thread/INFO]: Emori77 joined the game
+[00:50:55] [Server thread/INFO]: Emori77 lost connection: Disconnected
+[00:50:55] [Server thread/INFO]: Emori77 left the game
+[00:51:02] [Server thread/INFO]: Emori77[/127.187.88.135:49613] logged in with entity id 10325 at (622.5341683543962, 29.833113010458977, 251.03426469968883)
+[00:51:02] [Server thread/INFO]: Emori77 joined the game
+[00:51:10] [Server thread/INFO]: Emori77 tried to swim in lava
+[00:53:10] [Server thread/INFO]: Emori77 was slain by Piglin
+[00:53:21] [Server thread/INFO]: Emori77 was slain by Piglin
+[00:57:16] [Server thread/INFO]: L_Liaz lost connection: Timed out
+[00:57:16] [Server thread/INFO]: L_Liaz left the game
+[00:57:17] [Server thread/WARN]: handleDisconnection() called twice
+[00:58:43] [Server thread/INFO]: Emori77 was slain by Piglin
