@@ -26,6 +26,7 @@
       "minecraft:meadow": "2025-05-02 02:21:41 +0000",
       "minecraft:birch_forest": "2025-05-02 02:34:09 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-01 03:57:33 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-04 01:57:13 +0000",
       "minecraft:plains": "2025-05-01 03:28:51 +0000"
     },
     "done": false
@@ -793,6 +794,7 @@
       "cooked_mutton": "2025-05-01 03:52:07 +0000",
       "potato": "2025-05-02 03:43:30 +0000",
       "cooked_beef": "2025-05-02 03:54:38 +0000",
+      "porkchop": "2025-05-04 01:58:18 +0000",
       "carrot": "2025-05-02 03:44:15 +0000"
     },
     "done": false
@@ -2450,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-04 01:57:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
@@ -2462,9 +2470,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-04 01:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 01:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-04 01:57:17 +0000"
     },
     "done": true
   },
@@ -2474,9 +2500,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-04 01:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-05-04 01:36:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-04 01:55:09 +0000"
     },
     "done": true
   },
