@@ -52,3 +52,7 @@
 [20:18:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@40af0002[id=c26d88ef-f48e-313b-b05b-903663d778b4,name=im_evann,properties={}] lost connection: Disconnected
 [20:18:09] [Server thread/INFO]: im_evann[/127.176.104.174:35181] logged in with entity id 21792 at (5041.0807501702875, 68.0, 2339.715868734655)
 [20:18:09] [Server thread/INFO]: im_evann joined the game
+[20:31:10] [Server thread/INFO]: im_evann lost connection: Timed out
+[20:31:10] [Server thread/INFO]: im_evann left the game
+[20:31:10] [Server thread/WARN]: handleDisconnection() called twice
+[20:39:35] [Server thread/INFO]: L_Liaz has made the advancement [Best Friends Forever]

@@ -2764,9 +2764,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-04 20:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-05-04 20:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-04 20:35:09 +0000"
     },
     "done": true
   },
