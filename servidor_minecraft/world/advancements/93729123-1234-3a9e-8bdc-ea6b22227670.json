@@ -2741,5 +2741,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-05-04 04:50:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
