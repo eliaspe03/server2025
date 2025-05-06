@@ -2874,5 +2874,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-06 03:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-05-06 03:49:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }
