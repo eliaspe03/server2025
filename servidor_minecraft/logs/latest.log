@@ -1,63 +1,36 @@
-[17:39:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:39:04] [ServerMain/INFO]: Loaded 1337 recipes
-[17:39:04] [ServerMain/INFO]: Loaded 1448 advancements
-[17:39:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:39:04] [Server thread/INFO]: Loading properties
-[17:39:04] [Server thread/INFO]: Default game type: SURVIVAL
-[17:39:04] [Server thread/INFO]: Generating keypair
-[17:39:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:39:04] [Server thread/INFO]: Using epoll channel type
-[17:39:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:39:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:39:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:39:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:39:05] [Server thread/INFO]: Preparing level "world"
-[17:39:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:13] [Server thread/INFO]: Time elapsed: 8360 ms
-[17:39:13] [Server thread/INFO]: Done (8.811s)! For help, type "help"
-[17:40:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:42:03] [Server thread/INFO]: L_Liaz[/127.248.114.85:60277] logged in with entity id 4 at (4212.699999988079, 21.0, 1502.4633091880316)
-[17:42:03] [Server thread/INFO]: L_Liaz joined the game
-[17:49:31] [Server thread/INFO]: L_Liaz fell from a high place
-[18:02:29] [Server thread/INFO]: L_Liaz has made the advancement [Minecraft: Trial(s) Edition]
-[18:06:02] [Server thread/INFO]: L_Liaz lost connection: Disconnected
-[18:06:02] [Server thread/INFO]: L_Liaz left the game
-[18:07:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:20:40] [Server thread/INFO]: L_Liaz[/127.248.114.85:45451] logged in with entity id 5065 at (4089.300000011921, -1.0, 1250.4051554193425)
-[19:20:40] [Server thread/INFO]: L_Liaz joined the game
-[19:46:22] [Server thread/INFO]: L_Liaz fell from a high place
-[19:46:42] [Server thread/INFO]: Made L_Liaz a server operator
-[19:46:46] [Server thread/INFO]: [L_Liaz: Teleported L_Liaz to 4018.500000, -45.500000, 1128.500000]
-[20:04:36] [Server thread/INFO]: im_evann[/127.176.104.174:37971] logged in with entity id 14571 at (5014.252926565055, 64.0, 2230.4717492652057)
-[20:04:36] [Server thread/INFO]: im_evann joined the game
-[20:16:23] [Server thread/INFO]: im_evann lost connection: Disconnected
-[20:16:23] [Server thread/INFO]: im_evann left the game
-[20:18:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@40af0002[id=c26d88ef-f48e-313b-b05b-903663d778b4,name=im_evann,properties={}] lost connection: Disconnected
-[20:18:09] [Server thread/INFO]: im_evann[/127.176.104.174:35181] logged in with entity id 21792 at (5041.0807501702875, 68.0, 2339.715868734655)
-[20:18:09] [Server thread/INFO]: im_evann joined the game
-[20:31:10] [Server thread/INFO]: im_evann lost connection: Timed out
-[20:31:10] [Server thread/INFO]: im_evann left the game
-[20:31:10] [Server thread/WARN]: handleDisconnection() called twice
-[20:39:35] [Server thread/INFO]: L_Liaz has made the advancement [Best Friends Forever]
-[20:50:46] [Server thread/INFO]: im_evann[/127.176.104.174:39547] logged in with entity id 30216 at (5018.461861488466, 64.0, 2230.1476821665688)
-[20:50:46] [Server thread/INFO]: im_evann joined the game
-[20:54:35] [Server thread/INFO]: L_Liaz has made the advancement [Local Brewery]
-[20:59:40] [Server thread/INFO]: L_Liaz lost connection: Disconnected
-[20:59:40] [Server thread/INFO]: L_Liaz left the game
+[03:07:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:07:34] [ServerMain/INFO]: Loaded 1337 recipes
+[03:07:34] [ServerMain/INFO]: Loaded 1448 advancements
+[03:07:34] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:07:34] [Server thread/INFO]: Loading properties
+[03:07:34] [Server thread/INFO]: Default game type: SURVIVAL
+[03:07:34] [Server thread/INFO]: Generating keypair
+[03:07:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:07:34] [Server thread/INFO]: Using epoll channel type
+[03:07:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:07:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:07:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:07:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:07:34] [Server thread/INFO]: Preparing level "world"
+[03:07:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:42] [Server thread/INFO]: Time elapsed: 6748 ms
+[03:07:42] [Server thread/INFO]: Done (7.160s)! For help, type "help"
+[03:08:00] [Server thread/INFO]: Emori77[/127.187.88.135:56495] logged in with entity id 4 at (4978.675592473133, 65.92159999847412, 2007.7359658332712)
+[03:08:00] [Server thread/INFO]: Emori77 joined the game
+[03:08:50] [Server thread/INFO]: im_evann[/127.176.104.174:41505] logged in with entity id 553 at (5008.382977634617, 58.0, 2241.699999988079)
+[03:08:50] [Server thread/INFO]: im_evann joined the game
+[03:12:39] [Server thread/WARN]: Player Emori77 just tried to change non-editable sign
