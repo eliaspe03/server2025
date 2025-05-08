@@ -43,3 +43,12 @@
 [03:42:53] [Server thread/INFO]: im_evann[/127.176.104.174:40645] logged in with entity id 5527 at (4953.079118424422, 89.0, 2319.300000011921)
 [03:42:53] [Server thread/INFO]: im_evann joined the game
 [03:47:37] [Server thread/INFO]: Emori77 has made the advancement [Best Friends Forever]
+[03:54:16] [Server thread/INFO]: Emori77 lost connection: Timed out
+[03:54:16] [Server thread/INFO]: Emori77 left the game
+[03:54:16] [Server thread/WARN]: handleDisconnection() called twice
+[03:59:30] [Server thread/INFO]: Emori77[/127.187.88.135:51313] logged in with entity id 14484 at (5109.0201142964, 25.024424088213678, -322.7332422231869)
+[03:59:30] [Server thread/INFO]: Emori77 joined the game
+[04:00:24] [Server thread/INFO]: im_evann lost connection: Timed out
+[04:00:24] [Server thread/INFO]: im_evann left the game
+[04:01:26] [Server thread/INFO]: Emori77 lost connection: Disconnected
+[04:01:26] [Server thread/INFO]: Emori77 left the game
