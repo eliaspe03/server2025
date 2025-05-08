@@ -1,92 +1,45 @@
-[03:07:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:07:34] [ServerMain/INFO]: Loaded 1337 recipes
-[03:07:34] [ServerMain/INFO]: Loaded 1448 advancements
-[03:07:34] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[03:07:34] [Server thread/INFO]: Loading properties
-[03:07:34] [Server thread/INFO]: Default game type: SURVIVAL
-[03:07:34] [Server thread/INFO]: Generating keypair
-[03:07:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:07:34] [Server thread/INFO]: Using epoll channel type
-[03:07:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:07:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:07:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:07:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:07:34] [Server thread/INFO]: Preparing level "world"
-[03:07:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:07:42] [Server thread/INFO]: Time elapsed: 6748 ms
-[03:07:42] [Server thread/INFO]: Done (7.160s)! For help, type "help"
-[03:08:00] [Server thread/INFO]: Emori77[/127.187.88.135:56495] logged in with entity id 4 at (4978.675592473133, 65.92159999847412, 2007.7359658332712)
-[03:08:00] [Server thread/INFO]: Emori77 joined the game
-[03:08:50] [Server thread/INFO]: im_evann[/127.176.104.174:41505] logged in with entity id 553 at (5008.382977634617, 58.0, 2241.699999988079)
-[03:08:50] [Server thread/INFO]: im_evann joined the game
-[03:12:39] [Server thread/WARN]: Player Emori77 just tried to change non-editable sign
-[03:25:44] [Server thread/INFO]: L_Liaz[/127.248.114.85:60529] logged in with entity id 5575 at (4934.9968149693605, 66.5625, 2226.0891202213274)
-[03:25:44] [Server thread/INFO]: L_Liaz joined the game
-[03:31:01] [Server thread/INFO]: Emori77 has completed the challenge [Serious Dedication]
-[03:32:08] [Server thread/INFO]: im_evann has made the advancement [Ol' Betsy]
-[03:33:11] [Server thread/INFO]: Emori77 has completed the challenge [Cover Me in Debris]
-[03:34:28] [Server thread/INFO]: Villager cpj['mamani'/5043, l='ServerLevel[world]', x=5022.87, y=72.00, z=2026.57] died, message: 'mamani was slain by Zombie'
-[03:34:28] [Server thread/INFO]: Named entity cpj['mamani'/5043, l='ServerLevel[world]', x=5022.87, y=72.00, z=2026.57] died: mamani was slain by Zombie
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.2562255034372356,0.0,-10.396839732684839
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.2660803304925139,0.0,-10.796718183941948
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.2759351575477922,0.0,-11.196596635199057
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.2857899846030705,0.0,-11.596475086456167
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.29564481165834877,0.0,-11.996353537713276
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.30549963871362706,0.0,-12.396231988970385
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.31535446576890536,0.0,-12.796110440227494
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.32520929282418365,0.0,-13.195988891484603
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.33506411987946194,0.0,-13.595867342741712
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.34491894693474023,0.0,-13.995745793998822
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.3547737739900185,0.0,-14.39562424525593
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.3646286010452968,0.0,-14.79550269651304
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.3744834281005751,0.0,-15.19538114777015
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.3843382551558534,0.0,-15.595259599027258
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.3941930822111317,0.0,-15.995138050284368
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.40404790926641,0.0,-16.395016501541477
-[03:38:32] [Server thread/WARN]: Oak Boat (vehicle of Emori77) moved too quickly! 0.4139027363216883,0.0,-16.794894952798586
-[03:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[03:44:23] [Server thread/INFO]: L_Liaz has made the advancement [What a Deal!]
-[03:47:18] [Server thread/INFO]: Emori77 has made the advancement [Eye Spy]
-[03:50:14] [Server thread/INFO]: Emori77 lost connection: Disconnected
-[03:50:14] [Server thread/INFO]: Emori77 left the game
-[03:58:25] [Server thread/INFO]: Villager cpj['Librarian'/624, l='ServerLevel[world]', x=4944.30, y=70.00, z=2237.30] died, message: 'Librarian was slain by Zombie'
-[03:58:41] [Server thread/INFO]: im_evann lost connection: Disconnected
-[03:58:41] [Server thread/INFO]: im_evann left the game
-[03:58:52] [Server thread/INFO]: im_evann[/127.176.104.174:52769] logged in with entity id 24621 at (4948.263820812404, 71.0, 2242.396820989367)
-[03:58:52] [Server thread/INFO]: im_evann joined the game
-[03:59:37] [Server thread/INFO]: [L_Liaz: The difficulty has been set to Hard]
-[04:01:36] [Server thread/INFO]: [L_Liaz: Set own game mode to Creative Mode]
-[04:02:35] [Server thread/INFO]: [L_Liaz: Set own game mode to Survival Mode]
-[04:02:37] [Server thread/INFO]: im_evann has made the advancement [What a Deal!]
-[04:36:07] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:36:07] [Server thread/INFO]: im_evann left the game
-[04:36:11] [Server thread/INFO]: im_evann[/127.176.104.174:33321] logged in with entity id 31418 at (4945.350217614351, 63.0, 2002.2821906794952)
-[04:36:11] [Server thread/INFO]: im_evann joined the game
-[04:36:25] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:36:25] [Server thread/INFO]: im_evann left the game
-[04:36:35] [Server thread/INFO]: im_evann[/127.176.104.174:53681] logged in with entity id 31497 at (4947.382342863996, 65.0, 2027.8513400846748)
-[04:36:35] [Server thread/INFO]: im_evann joined the game
-[04:38:00] [Server thread/INFO]: im_evann lost connection: Disconnected
-[04:38:00] [Server thread/INFO]: im_evann left the game
-[04:38:58] [Server thread/INFO]: L_Liaz lost connection: Disconnected
-[04:38:58] [Server thread/INFO]: L_Liaz left the game
-[04:39:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:40:27] [Server thread/INFO]: tentacion123[/127.16.119.53:44049] logged in with entity id 32217 at (4903.945840488388, 77.0, 2280.586004160726)
-[04:40:27] [Server thread/INFO]: tentacion123 joined the game
-[04:41:08] [Server thread/INFO]: tentacion123 lost connection: Disconnected
-[04:41:08] [Server thread/INFO]: tentacion123 left the game
-[04:42:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:31:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:31:17] [ServerMain/INFO]: Loaded 1337 recipes
+[03:31:17] [ServerMain/INFO]: Loaded 1448 advancements
+[03:31:17] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[03:31:17] [Server thread/INFO]: Loading properties
+[03:31:17] [Server thread/INFO]: Default game type: SURVIVAL
+[03:31:17] [Server thread/INFO]: Generating keypair
+[03:31:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:31:17] [Server thread/INFO]: Using epoll channel type
+[03:31:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:31:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:31:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:31:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:31:17] [Server thread/INFO]: Preparing level "world"
+[03:31:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:31:23] [Server thread/INFO]: Time elapsed: 5641 ms
+[03:31:23] [Server thread/INFO]: Done (6.024s)! For help, type "help"
+[03:32:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:33:59] [Server thread/INFO]: Emori77[/127.187.88.135:44083] logged in with entity id 4 at (5195.712165783211, 43.0, -319.8893124316001)
+[03:33:59] [Server thread/INFO]: Emori77 joined the game
+[03:35:40] [Server thread/INFO]: im_evann[/127.176.104.174:50891] logged in with entity id 618 at (4933.4447761234815, 64.0, 2030.8608533439212)
+[03:35:40] [Server thread/INFO]: im_evann joined the game
+[03:36:12] [Server thread/INFO]: Rip_Nupe[/127.191.142.225:40015] logged in with entity id 1035 at (4982.386899789428, 66.0, 2015.1268058445685)
+[03:36:12] [Server thread/INFO]: Rip_Nupe joined the game
+[03:38:05] [Server thread/INFO]: Rip_Nupe has made the advancement [Ice Bucket Challenge]
+[03:40:56] [Server thread/INFO]: im_evann lost connection: Timed out
+[03:40:56] [Server thread/INFO]: im_evann left the game
+[03:40:56] [Server thread/WARN]: handleDisconnection() called twice
+[03:41:27] [Server thread/WARN]: Rip_Nupe moved too quickly! -7.289527003799776,0.2712241076924897,-7.002889124777084
+[03:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
+[03:42:53] [Server thread/INFO]: im_evann[/127.176.104.174:40645] logged in with entity id 5527 at (4953.079118424422, 89.0, 2319.300000011921)
+[03:42:53] [Server thread/INFO]: im_evann joined the game
+[03:47:37] [Server thread/INFO]: Emori77 has made the advancement [Best Friends Forever]
